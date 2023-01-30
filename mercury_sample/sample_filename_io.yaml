@@ -1,0 +1,12 @@
+---
+title: sample_filename_io
+description: notebook with i/o widets
+show-code: True
+params:
+    filename:                                           
+        label: This is file label
+        input: file
+        maxFileSize: 1MB
+    output_dir:
+        output: dir
+---
