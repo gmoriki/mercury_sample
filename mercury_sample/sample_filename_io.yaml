@@ -1,7 +1,7 @@
 ---
 title: sample_filename_io
 description: notebook with i/o widets
-show-code: True
+show-code: False
 params:
     filename:                                           
         label: This is file label
